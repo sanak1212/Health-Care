@@ -27,7 +27,7 @@ This Power BI dashboard provides insights into Home Page , Finance Page, sales p
     
 
 📷 Dashboard Preview:
-https://github.com/sanak1212/PowerBI-Atliq-Hardware/blob/main/Atliq%20Hardware.pdf
+[https://github.com/sanak1212/PowerBI-Atliq-Hardware/blob/main/Atliq%20Hardware.pdf](https://github.com/sanak1212/Health-Care/blob/main/healthcare.pdf)
 
 🛠️ Tools Used:
 
