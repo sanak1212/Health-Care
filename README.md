@@ -15,15 +15,26 @@ Advanced DAX Measures: Calculated KPIs including averages, percentages, and rati
 Objective:
 To provide hospital management with actionable insights for financial planning, resource allocation, and patient care optimization.
 
-Tools Used:
-Power BI, DAX, Data Modeling, Star Schema, SQL, Excel.
 
-Use Case:
+📊 Project Overview:
+This Power BI dashboard provides insights into Home Page , Finance Page, sales performance, Marketing Performance, Supply Chain, Executive view.
 
-Identify high-revenue departments and cost-intensive procedures.
+🧠 Key Insights:
 
-Track patient flow and resource utilization across locations.
+    Total billing amount by city.
+    Identify high-revenue departments and cost-intensive procedures.
+    Support data-driven operational and financial decisions.
+    
 
-Evaluate insurance coverage and out-of-pocket expenses.
+📷 Dashboard Preview:
+https://github.com/sanak1212/PowerBI-Atliq-Hardware/blob/main/Atliq%20Hardware.pdf
 
-Support data-driven operational and financial decisions.
+🛠️ Tools Used:
+
+    Power BI 
+    Excel
+    DAX
+    Data Modeling 
+    SQL
+    
+ 
